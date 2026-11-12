@@ -46,7 +46,7 @@ $(document).ready(function() {
         
         event.preventDefault();
         
-        window.location.href = "https://3elk.github.io/JumpScare-Spam/jumpscare.mp4"; // YOU CAN CHANGE THE URL
+        window.location.href = "https://tfoesrandomstuff.vercel.app/media/gotyoass.png"; // YOU CAN CHANGE THE URL
         
     }); 
     
